@@ -1,0 +1,103 @@
+
+ -----TICKET QR-----
+ ID del Pedido: PROG0100
+ Nombre: JUAN
+ Vendedor: 2
+ Forma de Pago: QR
+ Subtotal: $ 5100.00
+ Consumo en Local: 0
+ Total: $ 5600.00
+ Fecha de Compra: 1/11/2023
+ Entregado: NO
+ -----TICKET QR-----
+ -------------------------
+ -----TICKET QR-----
+ ID del Pedido: PROG0300
+ Nombre: CECILIA
+ Vendedor: 1
+ Forma de Pago: QR
+ Subtotal: $ 6290.00
+ Consumo en Local: 1
+ Total: $ 6290.00
+ Fecha de Compra: 15/10/2023
+ Entregado: SI 
+ -----TICKET QR-----
+ -------------------------
+ -----TICKET QR-----
+ ID del Pedido: PROG2005
+ Nombre: MARTEEEN
+ Vendedor: 1
+ Forma de Pago: QR
+ Subtotal: $ 4000.00
+ Consumo en Local: 1
+ Total: $ 4000.00
+ Fecha de Compra: 13/11/2023
+ Entregado: SI 
+ -----TICKET QR-----
+ -------------------------
+ -----TICKET QR-----
+ ID del Pedido: PROG0100
+ Nombre: JUAN
+Vendedor: Big Smoke.
+ Forma de Pago: QR
+ Subtotal: $ 5100.00Consumo en Local: NO.
+ Total: $ 5600.00
+ Fecha de Compra: 1/11/2023
+ Entregado: NO
+ -----TICKET QR-----
+ -------------------------
+ -----TICKET QR-----
+ ID del Pedido: PROG0300
+ Nombre: CECILIA
+Vendedor: CJ.
+ Forma de Pago: QR
+ Subtotal: $ 6290.00Consumo en Local: SI.
+ Total: $ 6290.00
+ Fecha de Compra: 15/10/2023
+ Entregado: SI 
+ -----TICKET QR-----
+ -------------------------
+ -----TICKET QR-----
+ ID del Pedido: PROG2026
+ Nombre: KEVIN
+Vendedor: CJ.
+ Forma de Pago: QR
+ Subtotal: $ 8100.00Consumo en Local: SI.
+ Total: $ 8100.00
+ Fecha de Compra: 14/11/2023
+ Entregado: SI 
+ -----TICKET QR-----
+ -------------------------
+-----TICKET DEBITO-----
+ID del Pedido: PROG0001
+Nombre: JUAN
+Vendedor: CJ.
+Forma de Pago: DEBITO.
+Subtotal: $ 7650.00Consumo en Local: SI.
+ Total: $ 7650.00
+ Fecha de Compra: 12/11/2023
+ Entregado: SI 
+ -----TICKET DEBITO-----
+ -------------------------
+-----TICKET DEBITO-----
+ID del Pedido: PROG0200
+Nombre: JORGE
+Vendedor: Big Smoke.
+Forma de Pago: DEBITO.
+Subtotal: $ 2250.00Consumo en Local: SI.
+ Total: $ 2250.00
+ Fecha de Compra: 15/10/2023
+ Entregado: SI 
+ -----TICKET DEBITO-----
+ -------------------------
+-----TICKET DEBITO-----
+ID del Pedido: PROG2000
+Nombre: JUAN
+Vendedor: Big Smoke.
+Forma de Pago: DEBITO.
+Subtotal: $ 8400.00Consumo en Local: SI.
+ Total: $ 8400.00
+ Fecha de Compra: 3/11/2023
+ Entregado: SI 
+ -----TICKET DEBITO-----
+ -------------------------

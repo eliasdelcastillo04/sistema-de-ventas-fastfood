@@ -1,0 +1,59 @@
+-----TICKET ANULADO-----
+ID del Pedido: PROG2005
+Nombre: MARTEEEN
+Vendedor: 1
+Forma de Pago: 3
+Subtotal: 4000.00
+Consumo en Local: 1
+Total: 4000.00
+Fecha de Compra: 13/11/2023
+Entregado: SI 
+-----TICKET ANULADO-----
+-----TICKET ANULADO-----
+ID del Pedido: PROG2022
+Nombre: IGNACIO
+Vendedor: CJ
+Forma de Pago: 3
+Opcion de pago: QR
+Subtotal: 41000.00
+Consumo en Local: SI 
+Total: 41000.00
+Fecha de Compra: 14/11/2023
+Entregado: SI 
+-----TICKET ANULADO-----
+-----TICKET ANULADO-----
+ID del Pedido: PROG2024 
+Nombre: POP 
+Vendedor: CJ
+Forma de Pago: 1
+Opcion de pago: Debito
+Subtotal: 2000.00
+Consumo en Local: SI 
+Total: 2000.00
+Fecha de Compra: 14/11/2023
+Entregado: NO 
+-----TICKET ANULADO-----
+-----TICKET ANULADO-----
+ID del Pedido: PROG2025 
+Nombre: jose 
+Vendedor: CJ
+Forma de Pago: 1
+Opcion de pago: Debito
+Subtotal: 2000.00
+Consumo en Local: SI 
+Total: 2000.00
+Fecha de Compra: 14/11/2023
+Entregado: NO 
+-----TICKET ANULADO-----
+-----TICKET ANULADO-----
+ID del Pedido: PROG2027 
+Nombre: JOSE 
+Vendedor: CJ
+Forma de Pago: 1
+Opcion de pago: Debito
+Subtotal: 2100.00
+Consumo en Local: SI 
+Total: 2100.00
+Fecha de Compra: 14/11/2023
+Entregado: NO 
+-----TICKET ANULADO-----

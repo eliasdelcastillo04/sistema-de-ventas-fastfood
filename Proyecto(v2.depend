@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1699930312 source:c:\users\beira\desktop\trabajo de maquina beiras-delcastillo(v2.14)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	"tda_combo.h"
+	"tda_pedidos.h"
+	"tda_lista.h"
+
+1699896476 c:\users\beira\desktop\trabajo de maquina beiras-delcastillo(v2.14)\tda_combo.h
+	<string.h>
+
+1699896476 c:\users\beira\desktop\trabajo de maquina beiras-delcastillo(v2.14)\tda_pedidos.h
+
+1699896476 c:\users\beira\desktop\trabajo de maquina beiras-delcastillo(v2.14)\tda_lista.h
+
+1699991086 source:c:\users\elias\desktop\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	"tda_combo.h"
+	"tda_pedidos.h"
+	"tda_lista.h"
+
+1699896476 c:\users\elias\desktop\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\tda_combo.h
+	<string.h>
+
+1699980913 c:\users\elias\desktop\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\tda_pedidos.h
+
+1699896476 c:\users\elias\desktop\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\tda_lista.h
+
+1699996876 source:c:\users\usuario\desktop\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	"tda_combo.h"
+	"tda_pedidos.h"
+	"tda_lista.h"
+
+1699996180 c:\users\usuario\desktop\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\tda_combo.h
+	<string.h>
+
+1699997002 c:\users\usuario\desktop\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\tda_pedidos.h
+
+1699992932 c:\users\usuario\desktop\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\tda_lista.h
+
+1699996878 source:d:\viejo\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	"tda_combo.h"
+	"tda_pedidos.h"
+	"tda_lista.h"
+
+1699996182 d:\viejo\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\tda_combo.h
+	<string.h>
+
+1699997004 d:\viejo\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\tda_pedidos.h
+
+1699992934 d:\viejo\trabajo de maquina beiras-delcastillo(v2.14)\trabajo de maquina beiras-delcastillo(v2.14)\tda_lista.h
+
+1699996878 source:d:\viejo\proyecto(v2.14)\proyecto(v2.14)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	"tda_combo.h"
+	"tda_pedidos.h"
+	"tda_lista.h"
+
+1699996182 d:\viejo\proyecto(v2.14)\proyecto(v2.14)\tda_combo.h
+	<string.h>
+
+1699997004 d:\viejo\proyecto(v2.14)\proyecto(v2.14)\tda_pedidos.h
+
+1699992934 d:\viejo\proyecto(v2.14)\proyecto(v2.14)\tda_lista.h
+
